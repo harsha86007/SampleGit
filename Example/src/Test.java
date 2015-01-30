@@ -7,5 +7,6 @@ public class Test {
        String s;
        s= (a>b) ? "A is big" : "B is big";
        System.out.println((a==b)? "A and B are same" : "" +s);
+       System.out.println("Test");
     }
 }
