@@ -8,6 +8,6 @@ public class Test {
        s= (a>b) ? "A is big" : "B is big";
        System.out.println((a==b)? "A and B are same" : "" +s);
        System.out.println("Test");
-       System.out.println("test 1");
+      
     }
 }
